@@ -12,6 +12,6 @@ function logShout() {
 }
 
 function logWhisper() {
-  console.log('logWhisper')
-  return lowercase()
+  console.log('logWhisper').toLowerCase()
+  
 }
